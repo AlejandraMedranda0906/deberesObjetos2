@@ -4,7 +4,7 @@ https://youtu.be/wL929rOf-CU
 
 **twofer.ts**
 Two FER
-Two FER
+
 El código tiene una única función llamada twoFer. 
 export-Es una  palabra clave que se usa para hacer que la función sea accesible desde
 otros archivos dentro del mismo proyecto 
